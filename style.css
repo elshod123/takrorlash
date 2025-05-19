@@ -1,0 +1,131 @@
+header{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    
+}
+.p1{
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+
+
+}
+
+
+button{
+    width: 180px;
+    height: 52px;
+    background-color: #F57520;
+    border-radius: 10px;
+    border: none;
+}
+
+
+.elwod{
+   background-image: url(./1.png);
+   width: 1920px;
+   height: 875px;
+}
+
+.a1{
+    color: aliceblue;
+    margin-left: 150px;
+    margin-top: 150px;
+    width: 700px;
+    height: 96px;
+    
+}
+
+nav{
+    color: aliceblue;
+
+}
+
+
+.boxs{
+    width: 400px;
+    height: 462px;
+    background-color: #000000;
+    color: aliceblue;
+    
+
+    
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 50px;
+
+    
+}
+
+.boxs:hover{
+    background-color: #F57520;
+}
+
+
+h1{
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.boxx{
+    background-color: #F57520;
+    width: 1920px;
+    height: 636px;
+}
+
+
+button{
+    background-color: #FFFFFF;
+    width: 608px;
+    height: 52px;
+    margin-top: 40px;
+    margin-left: 10px;
+    border: none;
+    color: orange;
+}
+
+.classs{
+    width: 608px;
+    height: 154px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.boxx{
+
+    
+    background-image: url(./image\ 86.png) ;
+    
+}
+
+.boxss input{
+    border: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
